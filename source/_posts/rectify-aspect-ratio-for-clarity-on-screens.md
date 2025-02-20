@@ -1,7 +1,7 @@
 ---
 title: Rectify Aspect Ratio for Clarity on Screens
-date: 2025-02-06T16:54:15.653Z
-updated: 2025-02-10T01:40:11.914Z
+date: 2025-02-15T07:05:37.658Z
+updated: 2025-02-19T19:25:40.018Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 2. [**Adjust the screen resolution**](#F2)
 3. [**Gently wipe the screen with cotton balls**](#F3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you are using the wrong or outdated graphics driver. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -44,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
  4) Restart your computer and see if the **vertical lines on screen** issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the screen resolution
 
@@ -69,13 +73,13 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 2. In**Resolution** , click the drop-down menu and make sure**the recommended resolution** is selected. Then see if the vertical lines disappear.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **I’m using Windows 8 or 7:**
@@ -85,14 +89,10 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 2. Adjust the screen resolution and see if the vertical lines disappear.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -125,21 +125,20 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/screen-resize-windows-11-display-issue/"><u>[SCREEN RESIZE] Windows 11 Display Issue</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-navigate-and-binge-with-finesse-perfect-use-of-floating-window-in-netflix/"><u>[Updated] 2024 Approved Navigate and Binge with Finesse Perfect Use of Floating Window in Netflix</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-navigating-copyright-concerns-in-screencasting-youtube-videos/"><u>[Updated] Navigating Copyright Concerns in Screencasting YouTube Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-uncharted-visual-narrative-evaluation-and-parallel-proposals/"><u>[Updated] Uncharted Visual Narrative Evaluation & Parallel Proposals</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-top-10plus-tools-to-record-your-pc-screen-seamlessly/"><u>2024 Approved Top 10+ Tools to Record Your PC Screen Seamlessly</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exploring-the-influence-of-windows-defender-on-your-computers-speed-and-functionality-with-yl-software-specialists/"><u>Exploring the Influence of Windows Defender on Your Computer's Speed & Functionality with YL Software Specialists</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-to-anonymous-direct-x-misstep-on-lol/"><u>Fix to Anonymous Direct X Misstep on LoL</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-xiaomi-redmi-k70-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Xiaomi Redmi K70 Pro to iPod | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/outsmart-sims-4-monochrome-mishaps/"><u>Outsmart Sims 4 Monochrome Mishaps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ssional-filmmaking-made-easy-with-right-lenses/"><u>Professional Filmmaking Made Easy with Right Lenses</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974595545-quickly-refresh-intel-graphics-on-windows-11-please/"><u>Quickly Refresh Intel Graphics on Windows 11, Please!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-pc-spec-issues-for-software-deployment/"><u>Resolving PC Spec Issues for Software Deployment</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/restabelecer-acesso-a-um-volume-desaparecido-em-windows-10-com-estrategias-faceis-de-seguir/"><u>Restabelecer Acesso a Um Volume Desaparecido Em Windows 10 Com Estratégias Fáceis De Seguir</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revitalizing-your-computers-intel-graphics-via-windows-7-updates/"><u>Revitalizing Your Computer's Intel Graphics via Windows 7 Updates</u></a></li>
-<li><a href="https://network-issues.techidaily.com/shedding-light-unexplained-x-error-cleared-in-lol/"><u>Shedding Light: Unexplained X Error Cleared in LOL</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/windowsmacos-visual-enhancement-a-guide-to-text-embellishments-in-photos/"><u>Windows/MacOS Visual Enhancement A Guide to Text Embellishments in Photos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-doom-eternal-xbox-crash-directx-problem/"><u>[FIXED] Doom Eternal Xbox Crash - DirectX Problem</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-how-to-create-a-signature-code-that-resonates-on-tiktok/"><u>[Updated] 2024 Approved How to Create a Signature Code That Resonates on TikTok</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-what-is-the-best-frame-rate-for-slow-motion-video/"><u>[Updated] 2024 Approved What Is The Best Frame Rate For Slow Motion Video?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1716069193215-updated-in-2024-offline-android-delights-top-screen-free-game-list-you-must-play/"><u>[Updated] In 2024, Offline Android Delights Top Screen-Free Game List You Must Play!</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-yis-action-cam-breaking-barriers-with-4k-film/"><u>[Updated] Yi's Action Cam Breaking Barriers with 4K Film</u></a></li>
+<li><a href="https://network-issues.techidaily.com/device-repair-error-43-settled/"><u>Device Repair: Error 43 Settled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dismiss-the-disturbance-in-win11-display/"><u>Dismiss the Disturbance in Win11 Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevate-pc-to-meet-software-and-hardware-criteria/"><u>Elevate PC to Meet Software and Hardware Criteria</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-inactive-cameras-on-asus-laptops/"><u>Enabling Inactive Cameras on Asus Laptops</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experts-choice-of-ultimate-magsafe-wallets-comprehensive-testing-and-reviews-gadgetmasters/"><u>Experts' Choice of Ultimate MagSafe Wallets : Comprehensive Testing and Reviews | GadgetMasters</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-your-win11-display-settings/"><u>Optimize Your Win11 Display Settings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/starting-vlogging-right-the-top-equipmentsoftware-for-2024/"><u>Starting Vlogging Right The Top Equipment/Software for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/synthetic-adventures-starts-here-top-vr-tools-10-for-2024/"><u>Synthetic Adventures Starts Here Top VR Tools (10) for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-television-antennas-your-ultimate-guide-to-smart-purchases/"><u>Top-Rated Television Antennas: Your Ultimate Guide to Smart Purchases</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-transform-your-mp4-files-a-step-by-step-video-editing-tutorial-for-mac-and-windows-for-2024/"><u>Updated Transform Your MP4 Files A Step-by-Step Video Editing Tutorial for Mac and Windows for 2024</u></a></li>
 </ul></div>
 
